@@ -169,3 +169,4 @@ st.sidebar.download_button(
     file_name='cleaned_tweets.csv',
     mime='text/csv'
 )
+#finalize the app
